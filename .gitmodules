@@ -1,0 +1,3 @@
+[submodule "unity-application-template"]
+	path = unity-application-template
+	url = git@github.com:Warginia-Studio/unity-application-template.git
