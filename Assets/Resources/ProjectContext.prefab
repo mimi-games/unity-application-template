@@ -48,6 +48,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6417758674220264532, guid: e4be0ed4b02dfb84e8272e873bc86809, type: 3}
+      propertyPath: cursors.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6417758674220264532, guid: e4be0ed4b02dfb84e8272e873bc86809, type: 3}
+      propertyPath: cursors.Array.data[0].Name
+      value: test
+      objectReference: {fileID: 0}
+    - target: {fileID: 6417758674220264532, guid: e4be0ed4b02dfb84e8272e873bc86809, type: 3}
+      propertyPath: cursors.Array.data[0].Texture
+      value: 
+      objectReference: {fileID: 2800000, guid: 26b27d4b519aee1448863250c4789c71, type: 3}
     - target: {fileID: 7535296146189128580, guid: e4be0ed4b02dfb84e8272e873bc86809, type: 3}
       propertyPath: m_Name
       value: ProjectContext
